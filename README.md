@@ -32,5 +32,5 @@
   
  
   ![snake gif](https://github.com/atzsamuel/atzsamuel/blob/output/github-contribution-grid-snake.gif)
- 
+  ![](https://komarev.com/ghpvc/?username=atzsamuel&style=flat-square)
 </div>
