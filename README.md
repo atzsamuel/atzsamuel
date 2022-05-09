@@ -30,7 +30,8 @@
  	<a href="https://twitter.com/atz_samuel" target="_blank"><img src="https://img.shields.io/badge/twitter-0078D4?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a alt="azure-fundamentals" href = "https://www.credly.com/badges/f0901f28-e116-4b6e-a7bf-ede6f3f4e758"><img height="80em" src="https://images.credly.com/size/340x340/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png" target="_blank"></a>
 <a alt="azure-data-fundamentals" href = "https://www.credly.com/badges/96858020-a28d-4ee0-904a-e11caa59fb5f"><img height="80em" src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" target="_blank"></a>
-  
+ 
+<a href="http://www.github.com/atzsamuel"><img src="https://activity-graph.herokuapp.com/graph?username=atzsamuel&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
  
   ![snake gif](https://github.com/atzsamuel/atzsamuel/blob/output/github-contribution-grid-snake.gif)
   ![](https://komarev.com/ghpvc/?username=atzsamuel&style=flat-square)
