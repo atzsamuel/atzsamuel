@@ -1,5 +1,4 @@
-<img align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="260px"></a>
-### Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome to my github profile
+### Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome to my github profile <img align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="125px">
 
 ```yaml
 👤 Name: Samuel Atz;
