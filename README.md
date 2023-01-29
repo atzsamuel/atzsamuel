@@ -25,8 +25,7 @@
            <a href="https://opensea.io/atzsamuel" target="_blank"><img src="https://img.shields.io/badge/-opensea-%230077B5?style=for-the-badge&logo=opensea&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/atzsamuel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <!-- <a href = "mailto:samuelatzmorales@gmail.com"><img src="https://img.shields.io/badge/gmail-0078D4?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>-->
-  <a href="https://instagram.com/samuel_atz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://twitter.com/atz_samuel" target="_blank"><img src="https://img.shields.io/badge/twitter-0078D4?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+ <a href="https://twitter.com/atz_samuel" target="_blank"><img src="https://img.shields.io/badge/twitter-0078D4?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 
 
 <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;">
