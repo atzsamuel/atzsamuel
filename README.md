@@ -34,5 +34,12 @@
 <a href="https://api.badgr.io/public/assertions/L_DffprWSgqf2Q7bjQNgcQ?identity__email=samuelatzmorales%40gmail.com"><img height="80em" src="https://media.badgr.com/uploads/badges/assertion-L_DffprWSgqf2Q7bjQNgcQ.png"></a>
 <p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;">
 </blockquote>
- 
+
+   ##
+<div align="center">  
+           <h5>Data & AI Community</h5>
+           <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;">
+<a href="https://community.fabric.microsoft.com/t5/Microsoft-Fabric-Guatemala/gh-p/DataPlatformGuatemala"><img height="80em" src="https://community.fabric.microsoft.com/t5/image/serverpage/image-id/1169548i4723B75134003FFE/image-size/large?v=v2&px=999"></a>
+<p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;">
+</blockquote>
  
